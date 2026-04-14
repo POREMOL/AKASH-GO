@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-logo="https://jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png" group-title="NEWS", JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-logo="null" group-title="Unknown", index.m3u8
+#EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" group-title="NEWS", SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Unknown", index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
