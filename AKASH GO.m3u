@@ -14,7 +14,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.news24bd.tv/_next/static/media/logo.d7d42751.png?w=828&q=100" group-title="NEWS", NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 tvg-logo="null" group-title="Unknown", index.m3u8
+#EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/static/media/btv-logo.d937bde9.svg" group-title="Entertainment", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Unknown", index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
