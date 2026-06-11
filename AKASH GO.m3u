@@ -40,7 +40,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/250px-Al_Jazeera_Media_Network_Logo.svg.png" group-title="NEWS", Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-logo="null" group-title="Unknown", index.m3u8
+#EXTINF:-1 tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg" group-title="Entertainment", MAASRANGA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Unknown", index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
